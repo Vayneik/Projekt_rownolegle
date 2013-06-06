@@ -1,5 +1,6 @@
 package Harmonogramowanie;
 
-public class Glowna {
+public class Glowna 
+{
 
 }
