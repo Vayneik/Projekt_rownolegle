@@ -1,5 +1,6 @@
 package Harmonogramowanie;
 
-public class Zlecenie {
+public class Zlecenie 
+{
 
 }

@@ -1,5 +1,6 @@
 package Harmonogramowanie;
 
-public class Harmonogram {
+public class Harmonogram 
+{
 
 }

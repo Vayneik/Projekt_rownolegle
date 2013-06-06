@@ -1,5 +1,6 @@
 package Harmonogramowanie;
 
-public class Produkt {
+public class Produkt 
+{
 
 }
